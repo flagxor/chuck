@@ -1,7 +1,7 @@
-# Evolution of ColorForth
+# Talks by Chuck Moore
 
 My attempt to gather information about and links to Chuck Moore's Various Talks
-over the years, particularly the annual fireside chat.
+over the years, particularly the annual Fireside Chat.
 
 ## Forth Day 1993
 
