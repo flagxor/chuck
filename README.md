@@ -65,6 +65,7 @@ over the years, particularly the annual Fireside Chat.
 ## Forth Day 2012
 
 * [video](https://www.youtube.com/watch?v=bB4pbjgvZoo)
+* [slides](forth_day_2012/README.md)
 
 ## Programming a 144-computer chip to minimize power (2013)
 
