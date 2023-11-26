@@ -16,6 +16,7 @@ over the years, particularly the annual Fireside Chat.
 ## Forth Day 1998
 
 * [video](https://www.youtube.com/watch?v=40ZIKHJ1H5E)
+* [slides](forth_day_1998/README.md)
 
 ## 1x Forth
 
