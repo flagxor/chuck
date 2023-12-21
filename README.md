@@ -77,12 +77,15 @@ over the years, particularly the annual Fireside Chat.
 ## Forth Day 2010
 
 * [video](https://www.youtube.com/watch?v=GYW335T6upo)
+* Various discussion including GA144, temperature, no slides
+* Unreadable things on the whiteboard
 
 ## Forth Day 2011
 
 * [video](https://www.youtube.com/watch?v=dSVCuGCB0R4)
 * [alt video 1](https://www.youtube.com/watch?v=odBjuSCX8jE)
 * [alt video 2](https://www.youtube.com/watch?v=NK1zlz67MjU)
+* [slides](forth_day_2011/README.md)
 
 ## Forth Day 2012
 
