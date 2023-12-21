@@ -37,6 +37,7 @@ over the years, particularly the annual Fireside Chat.
 ## Forth Day 2000
 
 * [video](https://www.youtube.com/watch?v=FL8RsCLvsHE)
+* General philosophy discussion
 
 ## Forth Day 2001-2004
 
@@ -46,6 +47,8 @@ over the years, particularly the annual Fireside Chat.
 ## Forth Day 2005
 
 * [video](https://www.youtube.com/watch?v=Z3M8f-9NpsE)
+* Min Moore passed
+* First mention of Intelisys (in Cupertino)
 
 ## Forth Day 2006-2007
 
@@ -55,10 +58,21 @@ over the years, particularly the annual Fireside Chat.
 ## Forth Day 2008
 
 * [video](https://www.youtube.com/watch?v=ydeMNRxJ3Y8)
+* At Cogswell
+* Go through 33 instructions in C18 instruction set
+* 30th anniversary Forth
+* Found out shuttle run charge the same up to some limit (hence 144)
+* [slides](forth_day_2008/README.md)
 
 ## Forth Day 2009
 
 * [video](https://www.youtube.com/watch?v=1HuRUcz0icM)
+* At Stanford
+* First mention of GreenArrays
+* colorForth appears in its "conventional form"
+* Compression of colorForth on floppy mentioned
+* Working on sidereal time clock
+* GA144 generating video
 
 ## Forth Day 2010
 
