@@ -62,7 +62,6 @@ over the years, particularly the annual Fireside Chat.
 * Go through 33 instructions in C18 instruction set
 * 30th anniversary Forth
 * Found out shuttle run charge the same up to some limit (hence 144)
-* [slides](forth_day_2008/README.md)
 
 ## Forth Day 2009
 
@@ -73,6 +72,7 @@ over the years, particularly the annual Fireside Chat.
 * Compression of colorForth on floppy mentioned
 * Working on sidereal time clock
 * GA144 generating video
+* [slides](forth_day_2009/README.md)
 
 ## Forth Day 2010
 
