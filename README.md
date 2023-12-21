@@ -32,7 +32,7 @@ over the years, particularly the annual Fireside Chat.
 ## Forth Day 1999
 
 * [video](https://www.youtube.com/watch?v=N1FUY6g5crA)
-* [screens and notes](presentation_1999/README.md)
+* [screens and notes](forth_day_1999/README.md)
 
 ## Forth Day 2000
 
