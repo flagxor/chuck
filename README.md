@@ -3,10 +3,15 @@
 My attempt to gather information about and links to Chuck Moore's Various Talks
 over the years, particularly the annual Fireside Chat.
 
-## Forth Day 1993
+## Forth Presentation 1993
 
 * [Part 1 of 2 video](https://www.youtube.com/watch?v=B_cf8n58Ews)
 * [Part 2 of 2 video](https://www.youtube.com/watch?v=Dbd7Xu0ibJM)
+
+* Complexity of early Forth board vs ShBoom (I think)
+   * Comparison to complexity in IBM PC
+* Simplest possible hardware + software as a combination
+* [screens](presentation_1993/README.md)
 
 ## Forth Day 1994-1997
 
