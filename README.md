@@ -126,6 +126,7 @@ over the years, particularly the annual Fireside Chat.
 ## Forth Day 2017
 
 * [video](https://youtu.be/nJ6WBI0Z_s4?t=11091)
+* [summary](forth_day_2017/README.md)
 
 ## Interview with Chuck Moore 2018
 
