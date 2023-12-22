@@ -113,6 +113,11 @@ over the years, particularly the annual Fireside Chat.
 * [video](https://youtu.be/NjX9acIN7RA?t=11085)
 * [summary](forth_day_2014/README.md)
 
+## Software -- past and future Dec 2014
+
+* [video](https://www.youtube.com/watch?v=tb0_V7Tc5MU)
+* TEDx Talk
+
 ## Forth Day 2015
 
 * [video](https://youtu.be/_4zZsHmhTPY?t=8714)
@@ -131,23 +136,22 @@ over the years, particularly the annual Fireside Chat.
 ## Interview with Chuck Moore 2018
 
 * [video](https://www.youtube.com/watch?v=SX3kXbLmwn4)
-
-## Software -- past and future 2018
-
-* [video](https://www.youtube.com/watch?v=tb0_V7Tc5MU)
-* TEDx Talk
+* No slides, oral talk
 
 ## Forth Day 2018
 
 * [video](https://youtu.be/xYWa2C2_7H0?t=7690)
+* [summary](forth_day_2018/README.md)
 
 ## Chuck Moore - 50 Years of Forth - 2019
 
 * [video](https://www.youtube.com/watch?v=SASQMl0rvYg)
+* No slides, oral talk
 
 ## Forth Day 2019
 
 * [video](https://www.youtube.com/watch?v=3ML-pJFa8lY)
+* [summary](forth_day_2019/README.md)
 
 ## Chat with Chuck Moore 2020
 
@@ -156,6 +160,7 @@ over the years, particularly the annual Fireside Chat.
 ## Forth Day 2020
 
 * [video](https://www.youtube.com/watch?v=81bkIqPpe0g)
+* [summary](forth_day_2020/README.md)
 
 ## Chuck Moore and Dutch FIG 2021
 
@@ -164,6 +169,7 @@ over the years, particularly the annual Fireside Chat.
 ## Forth Day 2021
 
 * [video](https://www.youtube.com/watch?v=BpsXyB2WsUw)
+* [summary](forth_day_2021/README.md)
 
 ## Chat with Chuck Moore 2022
 
