@@ -121,6 +121,7 @@ over the years, particularly the annual Fireside Chat.
 ## Forth Day 2016
 
 * [video](https://youtu.be/FeZ-40fxY48?t=8458)
+* [summary](forth_day_2016/README.md)
 
 ## Forth Day 2017
 
