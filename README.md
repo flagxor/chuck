@@ -91,19 +91,27 @@ over the years, particularly the annual Fireside Chat.
 
 * [video](https://www.youtube.com/watch?v=bB4pbjgvZoo)
 * [slides](forth_day_2012/README.md)
+* EtherForth, video display generated on GA144 (first half)
+* Chuck doesn't like colorForth interface, wants alternate keyboard
+* Shows another clock program
 
 ## Programming a 144-computer chip to minimize power (2013)
 
 * Strange Loop Conference 
 * [video](https://www.youtube.com/watch?v=0PclgBd6_Zs)
+* Describes GA144 and has good colorForth examples.
 
 ## Forth Day 2013
 
 * [video](https://youtu.be/UkjQLjpyqgs?t=9911)
+* GA144 power discussion
+* Continues using "conventional" colorForth
+* A bunch happens on the board
 
 ## Forth Day 2014
 
 * [video](https://youtu.be/NjX9acIN7RA?t=11085)
+* [summary](forth_day_2014/README.md)
 
 ## Forth Day 2015
 
